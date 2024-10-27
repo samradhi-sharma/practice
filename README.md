@@ -19,3 +19,5 @@ So to move from one branch to other we have command, suppose I want to move movi
 
 here I am switching from master branch to movies branch and then pushing it on github.
 
+If I write git checkout -b "camera"   :     it will simply create a branch with camera name
+
